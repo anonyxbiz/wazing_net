@@ -6,7 +6,7 @@ with open('requirements.txt') as f:
 
 setup(
     name="wazing_net",
-    version="1.0.7",
+    version="1.0.8",
     description="Wazing_net - Fast and easy access to request methods just like requests",
     author="Anonyxbiz",
     author_email="biz@anonyxis.life",

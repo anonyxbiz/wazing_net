@@ -1,5 +1,4 @@
 # wazing_net.py
-# version = 1.0.7
 from httpx import AsyncClient
 p = print
 
